@@ -1,0 +1,6 @@
+body { background:#fff; font-family:sans-serif; scroll-behavior:smooth; }
+.section-title { font-size:28px; font-weight:700; margin-bottom:12px; }
+.skill { padding:6px 12px; background:#000; color:#fff; border-radius:6px; }
+.tag { background:#eee; padding:4px 8px; border-radius:6px; font-size:13px; }
+.input { width:100%; padding:10px; border:1px solid #ddd; border-radius:6px; }
+.btn { background:#000; color:#fff; padding:10px 14px; border-radius:6px; }
