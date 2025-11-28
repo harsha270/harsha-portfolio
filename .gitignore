@@ -1,5 +1,5 @@
+# Ignore folders for Git
 node_modules/
 .next/
 dist/
 out/
-.env
