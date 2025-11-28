@@ -1,5 +1,13 @@
-# Ignore folders for Git
+# Do not upload build folders
 node_modules/
 .next/
 dist/
 out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
